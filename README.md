@@ -1,4 +1,4 @@
-# Hola, I'm Muhammad Ibrahim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hola, I'm Muhammad Talha Riaz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 # 💫 About Me:
 * 🔭 I’m currently working on Flutter and Android Native.
